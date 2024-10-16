@@ -5953,8 +5953,10 @@ rimraf@~2.6.2:
   dependencies:
     glob "^7.1.3"
 
-"rn-truelayer-payments-sdk@file:.yalc/rn-truelayer-payments-sdk":
-  version "2.1.0"
+rn-truelayer-payments-sdk@2.2.0:
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/rn-truelayer-payments-sdk/-/rn-truelayer-payments-sdk-2.2.0.tgz#76fe096244dd7255576927562a8796f81934aa2e"
+  integrity sha512-CmpYuuTm72XD7RgHSvn8ztfQUJIe6rmVpp/jW4qMYD0jNSnEJjS2Mlexask/S4jVOk0nOiw5Tajy5i1Zr9q8Jg==
 
 run-parallel@^1.1.9:
   version "1.2.0"
